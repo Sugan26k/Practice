@@ -8,14 +8,5 @@
     ],
     "image": "ghcr.io/cs50/codespace:b73dd04c40a0278a417bc0d7c806f78591392dae"
 }
-{
-    "forwardPorts": [
-        5001,
-        5901,
-        6082,
-        8081,
-        8083
-    ],
-    "image": "ghcr.io/cs50/codespace:b73dd04c40a0278a417bc0d7c806f78591392daf"
-}    
+    
 
